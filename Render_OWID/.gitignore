@@ -1,0 +1,5 @@
+output/*
+*.zip
+*.png
+examples
+.vscode
