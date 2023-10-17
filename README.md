@@ -79,13 +79,13 @@ The authors sincerely thank the developers of [Blenderproc2](https://github.com/
 If our toolkit helps your research, please cite us as:
 
 ```
-@inproceedings{Li2023VoxDet,
-  title={{VoxDet: Voxel Learning for Novel Instance Detection}},
-  author={Li, Bowen and Wang, Jiashun and Hu, Yaoyu and Wang, Chen and Scherer, Sebastian},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  volume={},
-  pages={1--10},
-  year={2023}
+@INPROCEEDINGS{Li2023Vox,       
+	author={Li, Bowen and Wang, Jiashun and Hu, Yaoyu and Wang, Chen and Scherer, Sebastian},   
+	booktitle={Proceedings of the Advances in Neural Information Processing Systems (NeurIPS)}, 
+	title={{VoxDet: Voxel Learning for Novel Instance Detection}},
+	year={2023},
+	volume={},
+	number={}
 }
 ```
 
